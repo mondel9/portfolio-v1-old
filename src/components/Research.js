@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Scroll from 'react-scroll'
 // import PDFViewer from 'pdf-viewer-reactjs';
-import { Card, Row, Col} from 'react-bootstrap';
+import { Card, Row, Col, Button} from 'react-bootstrap';
 
 const Element = Scroll.Element;
 
