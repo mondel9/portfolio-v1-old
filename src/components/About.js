@@ -74,7 +74,7 @@ class About extends Component {
                                     </Col>
                                 </Row>
                                 <hr style={{height:"1px",borderColor:"#79F3F7"}}/>
-                            </Card.Body><br/>
+                            </Card.Body>
                         </Card>
                     </Col>
                 <Col sm={1}></Col>
