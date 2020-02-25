@@ -37,9 +37,10 @@ class Research extends Component{
                                </Card.Text>
                                <Button id="mri_button" size="lg" variant="link"
                                     href="https://drive.google.com/file/d/1cocqihF2ZJRuBwLcT9VKWfW24aflKNIj/edit?usp=sharing" target="__blank"
-                                    style={{backgroundColor:"#0E0828", borderColor:"#79F3F7", fontFamily:"PT Mono",color:"#79F3F7"}} active>
+                                    style={{backgroundColor:"#0E0828", borderColor:"#79F3F7", fontFamily:"PT Mono",color:"#79F3F7", marginLeft:"48px"}} active>
                                         DOWNLOAD/VIEW PAPER
                                </Button>
+                               <br/><br/>
                                <Card.Text style={{fontSize:"20px", fontWeight:"bold"}}>
                                     <span style={{fontFamily:"PT Mono", color:"#79F3F7"}}>02. </span>CHASMplus vs. VEST
                                     <span style={{color:"#79F3F7"}}> - Cancer Driver Identification Tools </span><br/>
@@ -61,9 +62,10 @@ class Research extends Component{
                                 </Card.Text>
                                 <Button id="driver_button" size="lg" variant="link"
                                     href="https://drive.google.com/file/d/13mnWTYnAVvDBnTYGy5-juyNZkFO741Xu/view?usp=sharing" target="__blank"
-                                    style={{backgroundColor:"#0E0828", borderColor:"#79F3F7", fontFamily:"PT Mono",color:"#79F3F7"}} active>
+                                    style={{backgroundColor:"#0E0828", borderColor:"#79F3F7", fontFamily:"PT Mono",color:"#79F3F7", marginLeft:"48px"}} active>
                                         DOWNLOAD/VIEW PAPER
                                 </Button>
+                                <br/><br/>
                             </Card.Body> 
                         </Card>
                     </Col>
