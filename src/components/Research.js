@@ -35,7 +35,7 @@ class Research extends Component{
                                     Data provided by <a style={{color:"#79F3F7"}} href="https://www.med.upenn.edu/sbia/brats2018/data.html" target="__blank">
                                     University of Pennsylvania School of Medicine</a><br/><br/>
                                </Card.Text>
-                               <Button id="mri_button" size="lg" variant="link"
+                               <Button id="mri_button" size="sm" variant="link"
                                     href="https://drive.google.com/file/d/1cocqihF2ZJRuBwLcT9VKWfW24aflKNIj/edit?usp=sharing" target="__blank"
                                     style={{backgroundColor:"#0E0828", borderColor:"#79F3F7", fontFamily:"PT Mono",color:"#79F3F7", marginLeft:"48px"}} active>
                                         DOWNLOAD/VIEW PAPER
@@ -60,7 +60,7 @@ class Research extends Component{
                                     <a style={{color:"#79F3F7"}} href="https://opencravat.org/" target="__blank"> OpenCRAVAT </a>
                                     framework to implement the tools<br/>
                                 </Card.Text>
-                                <Button id="driver_button" size="lg" variant="link"
+                                <Button id="driver_button" size="sm" variant="link"
                                     href="https://drive.google.com/file/d/13mnWTYnAVvDBnTYGy5-juyNZkFO741Xu/view?usp=sharing" target="__blank"
                                     style={{backgroundColor:"#0E0828", borderColor:"#79F3F7", fontFamily:"PT Mono",color:"#79F3F7", marginLeft:"48px"}} active>
                                         DOWNLOAD/VIEW PAPER
