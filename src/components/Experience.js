@@ -48,12 +48,12 @@ class Experience extends Component{
                                     Managed the project's documentation and frequent meetings<br/>
                                 </Card.Text>
                             </Element>
+                            <br/><hr style={{height:"1px",borderColor:"#79F3F7"}}/>
                             </Card.Body>
                         </Card>
                     </Col>
                     <Col sm={1} style={{backgroundColor:"#0E0828"}}></Col>
                 </Row>
-                
             </React.Fragment>
         );
     }
