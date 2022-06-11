@@ -1,8 +1,8 @@
 {
   "short_name": "React App",
-  "name": "portfolio-app-v1",
+  "name": "portfolio-app-v1-old",
   "private": true,
-  "homepage": "https://mondel9.github.io/portfolio-v1,
+  "homepage": "https://mondel9.github.io/portfolio-v1-old",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
